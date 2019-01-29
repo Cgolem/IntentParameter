@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentParameter</string>
+    <string name="title_name">Nombre: </string>
+    <string name="title_age">Edad: </string>
+
+    <!-- Botones -->
+    <string name="btn_send">Enviar</string>
+    <string name="btn_clean">Limpiar</string>
+</resources>
